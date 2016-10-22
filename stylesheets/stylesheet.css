@@ -9,3 +9,7 @@ body {
 a {
   text-decoration: none;
 }
+
+#socialmedia {
+  font-style: italic;
+}
