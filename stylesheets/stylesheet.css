@@ -1,11 +1,11 @@
-h1 {
-    color: grey;
+* {
+  color: grey;
 }
 
-h2 {
-    color: grey;
+body {
+  background-color: #ffb6c1;
 }
 
 a {
-  color: grey;
+  text-decoration: none;
 }
