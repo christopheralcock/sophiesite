@@ -3,8 +3,9 @@
 }
 
 body {
+  font-size: 2vh;
   background-color: #ffb6c1;
-  padding: 15px;
+  padding: 2.2vh;
   margin: auto;
 }
 
